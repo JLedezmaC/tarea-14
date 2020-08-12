@@ -1,0 +1,19 @@
+.potato{
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(21, 48, 136, 0.739);
+}
+
+.chill{
+    color: burlywood  ;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
